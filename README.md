@@ -7,5 +7,8 @@ Immerse yourself in the world of beats and percussion, as every click triggers a
 
 Unleash your inner drummer and create dynamic rhythms with this interactive and engaging web-based drum kit experience!
 
+## How to use?
+Click on the box or key of the letter mentioned on the box. Play with the keys and make you own drum pattern. Enjoy!
+
 ![image](https://github.com/ayushtan123/Drum-Kit/assets/121681555/db43ce1f-2c46-4703-98ed-ae0b7bdef61d)
 
